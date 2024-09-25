@@ -24,10 +24,10 @@ To use the `htmx-download` extension, simply add the `hx-ext="htmx-download"` at
 ### Example:
 
 ```html
-<a hx-get="/download_excel/123"
-   hx-ext="htmx-download">
-    Download Excel
-</a>
+<button hx-get="/download_file/123" hx-ext="htmx-download">
+	Download File
+  <img class="htmx-indicator" src="/spinner.gif">
+</button>
 ```
 
 ### Backend Example (Django):
