@@ -3,7 +3,7 @@
 This is a custom HTMX extension that allows for seamless file downloads (Excel, PDF, etc.) in single-page applications without disrupting the current page or requiring page reloads.
 
 ## Demo
-[Link to demo](https://htmx-download-demo-production.up.railway.app/)
+[Link to demo](https://htmx-download.ddns.net)
 
 ## Features
 - Handles binary file downloads (Excel, PDF, etc.) with minimal JavaScript.
